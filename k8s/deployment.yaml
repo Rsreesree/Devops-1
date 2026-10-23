@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: todo-app
-          image: ghcr.io/rsreesree/todo-app:0aa5041f96a6c8928ba78b05a6a273f7bbfc90ee
+          image: ghcr.io/rsreesree/todo-app:5e5309c522405be654ab03a0d355e6a880adc95e
           ports:
             - containerPort: 5000
           resources:
